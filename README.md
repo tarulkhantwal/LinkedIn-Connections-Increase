@@ -1,7 +1,3 @@
-Here’s a polished version for a GitHub README:
-
----
-
 # LinkedIn Connection Bot
 
 This repository contains a Python-based bot to automate increasing your LinkedIn connections. The bot leverages Selenium for browser automation, providing a fully automated experience.
